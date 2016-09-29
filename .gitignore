@@ -11,3 +11,5 @@ tmp
 *.swp
 
 .results.json
+*.swp
+*.log
